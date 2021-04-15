@@ -1,3 +1,10 @@
+### Internet over TV Whitespace tech in PH
+RuralSync: https://mb.com.ph/2020/09/17/dost-asti-unwraps-ruralsync-project/
+White papers:
+https://iie.fing.edu.uy/investigacion/grupos/artes/en/projects/gr-isdbt/
+https://iie.fing.edu.uy/publicaciones/2016/LFGGB16/LFGGB16.pdf
+
+
 ### ISDB-T transceiver in GNU Radio
 
 **An open source implementation of a transceiver (i.e. receiver and transmitter) for the Digital Television standard ISDB-T (ARIB's STD-B31) in GNU Radio.**
